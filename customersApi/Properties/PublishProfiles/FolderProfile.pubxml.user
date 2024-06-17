@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\DEVOTE\Desktop\customer</_PublishTargetUrl>
+    <History>True|2024-06-13T14:15:34.4854480Z||;True|2024-06-13T17:09:37.4084383+03:00||;True|2024-06-13T17:06:19.7208634+03:00||;True|2024-06-13T16:56:30.9671277+03:00||;True|2024-06-13T16:07:31.7672349+03:00||;True|2024-06-13T16:05:56.4144127+03:00||;True|2024-06-13T15:35:14.8906473+03:00||;True|2024-06-13T15:32:51.4490522+03:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="customersApi.Data.CustomersContext">
+      <Value>Data Source=DESKTOP-BHP4NU6%3bInitial Catalog=customer%3bUser ID=sa%3bPassword=temp%3bTrust Server Certificate=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
